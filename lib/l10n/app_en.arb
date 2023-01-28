@@ -1,0 +1,20 @@
+{
+    "appTitle": "Memorize",
+    "appWelcomeTitle": "Welcome to the ultimate memory test, put your skills to the test and see how far you can go!",
+    "username": "Username",
+    "password": "Password",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "requiredField": "This field is required and cannot be left empty",
+    "userAlreadyExist":"User already exists, please try a different username",
+    "userDoesNotExist":"User does not exist, please check your input or sign up",
+    "passwordIncorrect":"Incorrect password, please try again",
+    "events": "Events",
+    "startGame":"Start Memorize!",
+    "restartGame":"Restart Memorize!",
+    "score":"Score",
+    "gameOver":"Game Over! Your score is: ",
+    "ranking":"Ranking",
+    "networkError": "Data could not be fetched, please check your wifi connection."
+}

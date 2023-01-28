@@ -1,0 +1,20 @@
+{
+  "appTitle": "Memorize",
+  "appWelcomeTitle": "Welkom bij de ultieme geheugentest, test je vaardigheden en zie hoe ver je kunt komen!",
+  "username": "Gebruikersnaam",
+  "password": "Passwoord",
+  "login": "Login",
+  "logout": "Uitloggen",
+  "register": "Registreren",
+  "requiredField": "Dit veld is verplicht en mag niet leeg gelaten worden",
+  "userAlreadyExist":"Gebruiker bestaat al, probeer een andere gebruikersnaam",
+  "userDoesNotExist":"Gebruiker bestaat niet, controleer uw invoer of meld u aan",
+  "passwordIncorrect":"Onjuist wachtwoord, probeer opnieuw",
+  "events": "Evenementen",
+  "startGame":"Memorize Starten!",
+  "restartGame":"Memorize Herstarten!",
+  "score":"Score",
+  "gameOver":"Game Over! Je score is:",
+  "ranking":"Ranking",
+  "networkError": "Data konden niet worden opgehaald, controleer uw wifi-verbinding."
+}
